@@ -1,2 +1,1 @@
-# and102-parks-2
-and102-parks-2
+<img src='assets/lab4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
